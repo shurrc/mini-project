@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+   }
+.title{
+    text-align: center;
+    padding: 20px;
+    background-color: yellow;
+    border: 3px solid blue;
+    position: fixed;
+    left: 300px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+  
+   
