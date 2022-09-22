@@ -6,7 +6,7 @@
     border: 1px solid red;
 }
 header {
-    background-color: lemonchiffon;
+    background-color: chartreuse;
     color: blue;
     position: fixed;
     top: 0;
@@ -22,8 +22,14 @@ ul li {
 }
 main {
     padding-top: 40px;
+    text-align: center;
+    background-color: yellow;
 }
 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 200px;
     width: auto;
 }
+
