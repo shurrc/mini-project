@@ -32,4 +32,24 @@ img {
     height: 200px;
     width: auto;
 }
+#contact {
+    width: 60%;
+    margin: auto;
+    background-color: chartreuse;
+}
 
+#contact form input,
+#contact form label {
+    display: block;
+}
+
+#contact form input {
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: chartreuse;
+    padding: 3px;
+}
