@@ -53,3 +53,8 @@ button {
     background-color: chartreuse;
     padding: 3px;
 }
+
+footer {
+    background-color: aqua;
+    text-align: center;
+}
