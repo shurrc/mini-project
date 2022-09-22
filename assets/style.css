@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     /* border for presentation */
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 header {
     background-color: chartreuse;
@@ -57,4 +57,5 @@ button {
 footer {
     background-color: aqua;
     text-align: center;
+    padding: 25px;
 }
