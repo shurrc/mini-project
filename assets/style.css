@@ -1,17 +1,29 @@
-*{
+* {
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
-   }
-.title{
-    text-align: center;
-    padding: 20px;
-    background-color: yellow;
-    border: 3px solid blue;
-    position: fixed;
-    left: 300px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 0;
+    padding: 0;
+    /* border for presentation */
+    border: 1px solid red;
 }
-
-  
-   
+header {
+    background-color: lemonchiffon;
+    color: blue;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+nav {
+    text-align: right;
+    padding: 10px;
+}
+ul li {
+    display: inline;
+}
+main {
+    padding-top: 40px;
+}
+img {
+    height: 200px;
+    width: auto;
+}
